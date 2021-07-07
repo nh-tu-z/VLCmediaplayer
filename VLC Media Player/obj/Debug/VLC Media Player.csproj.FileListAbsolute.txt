@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\bin\Debug\VLC Media Player.exe.config
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\bin\Debug\VLC Media Player.exe
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\bin\Debug\VLC Media Player.pdb
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\bin\Debug\Interop.AXVLC.dll
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\obj\Debug\VLC Media Player.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\obj\Debug\Interop.AXVLC.dll
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\obj\Debug\VLC Media Player.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\obj\Debug\VLC_Media_Player.Form1.resources
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\obj\Debug\VLC_Media_Player.Properties.Resources.resources
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\obj\Debug\VLC Media Player.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\obj\Debug\VLC Media Player.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\obj\Debug\VLC Media Player.exe
+C:\Users\Admin\source\repos\VLC Media Player\VLC Media Player\obj\Debug\VLC Media Player.pdb
